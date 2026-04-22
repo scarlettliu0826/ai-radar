@@ -90,7 +90,3 @@ copy ai-radar.md %USERPROFILE%\.claude\commands\ai-radar.md
 - 添加/删除 YouTube 频道、播客源或 Twitter KOL
 - 修改 RSSHub 实例地址
 - 调整输出格式和语言
-
-## License
-
-MIT
